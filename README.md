@@ -2,6 +2,9 @@
 
 A modern, feature-rich meme generator built with React and Vite. Create, customize, and share memes with an intuitive interface and powerful editing tools.
 
+**Live Demo:** [meme-generator-react-delta.vercel.app](https://meme-generator-react-delta.vercel.app/)
+**GitHub Repo:** [github.com/StudywithMunir/meme-generator-react](https://github.com/StudywithMunir/meme-generator-react)
+
 ![Meme Generator](https://img.shields.io/badge/React-19.1.1-blue) ![Vite](https://img.shields.io/badge/Vite-7.0.4-purple) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## ✨ Features
@@ -40,8 +43,8 @@ A modern, feature-rich meme generator built with React and Vite. Create, customi
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd meme-generator-project
+   git clone https://github.com/StudywithMunir/meme-generator-react.git
+   cd meme-generator-react
    ```
 
 2. **Install dependencies**
@@ -242,5 +245,9 @@ If you encounter any issues or have questions:
 - Review the browser console for error messages
 
 ---
+
+## 🔗 Links
+- **Live Demo:** [https://meme-generator-react-delta.vercel.app/](https://meme-generator-react-delta.vercel.app/)
+- **GitHub Repository:** [https://github.com/StudywithMunir/meme-generator-react](https://github.com/StudywithMunir/meme-generator-react)
 
 **Happy Meme Making! 🎭✨**
